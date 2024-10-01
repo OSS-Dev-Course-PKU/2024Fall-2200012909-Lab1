@@ -1,5 +1,3 @@
 # 2024Fall-2200012909-Lab1
 
-我想为minecraft游戏的carpet模组做一些代码方面的贡献。
-
-我的计划是首先搭建carpet开发使用的开发环境，同时在社区中查找贡献方式相关的说明文档。然后查找项目仓库的issue中我能做的贡献，并进行尝试。
+计划为`coreutils`([https://github.com/uutils/coreutils](url))或者`clap`([https://github.com/uutils/coreutils](url))做贡献，现在已经认真阅读他们的贡献规范，正在探索这两个项目的issue。
